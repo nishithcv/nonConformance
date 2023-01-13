@@ -2,7 +2,7 @@
 
 Done as part of interview process.
 
-When ever a case is created with Type 'problem' or when a case is updated to the type 'problem', a nonConformance record must be created.
+When ever a case is created with Type 'problem' or when a case is updated to the type 'problem', a nonConformance record must be created._
 If a nonConformance is a parent of Case.
 When the nonConformance is created, its reference must be stored on the case.
 The nonConformance must not be created if the case already has a nonConformance record.
